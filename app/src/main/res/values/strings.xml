@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="error_email">Invalid Email</string>
+    <string name="error_password">Minimum password length is 8.</string>
+    <string name="error_name">Name Can\'t be empty</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+</resources>
