@@ -8,4 +8,7 @@
     <string name="password">Password</string>
     <string name="register">Register</string>
     <string name="full_name">Full Name</string>
+    <string name="desc_add_button">Add Button</string>
+    <string name="desc_story_photo">Story Photo</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
