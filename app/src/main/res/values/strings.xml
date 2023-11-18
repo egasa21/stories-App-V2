@@ -11,4 +11,21 @@
     <string name="desc_add_button">Add Button</string>
     <string name="desc_story_photo">Story Photo</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="languages">Languages</string>
+    <string name="maps">Maps</string>
+    <string name="logout">Logout</string>
+    <string name="alert_logout">Logout Success</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="invalid_input">You have entered an invalid username or password</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="name">Name</string>
+    <string name="image_photo">Photo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="permission_alert">You don\'t have permission</string>
+    <string name="alert_upload_story">Please upload an image first</string>
+    <string name="alert_camera_fail">Failed to take a picture</string>
 </resources>

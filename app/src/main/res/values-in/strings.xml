@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="error_email">Email tidak valid</string>
+    <string name="error_password">Panjang kata sandi minimal 8 karakter.</string>
+    <string name="error_name">Nama tidak boleh kosong</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="register">Daftar</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="desc_add_button">Tambah Tombol</string>
+    <string name="desc_story_photo">Foto Cerita</string>
+    <string name="title_activity_maps">Aktivitas Peta</string>
+    <string name="languages">Bahasa</string>
+    <string name="maps">Peta</string>
+    <string name="logout">Keluar</string>
+    <string name="alert_logout">Berhasil Keluar</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="invalid_input">Anda telah memasukkan nama pengguna atau kata sandi yang tidak valid</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="name">Nama</string>
+    <string name="image_photo">Foto</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="permission_alert">Anda tidak memiliki izin</string>
+    <string name="alert_upload_story">Harap unggah gambar terlebih dahulu</string>
+    <string name="alert_camera_fail">Gagal mengambil gambar</string>
+</resources>
